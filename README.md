@@ -83,7 +83,7 @@ SCSS dosyalarını düzenlemek için:
 
 ## ⚙️ Canlı Demo
 
-![DigiApp Canlı Demo](dIgiapp.gif)
+![DigiApp Canlı Demo](dİgiapp.gif)
 
 ## 🎨 SCSS Modülleri
 
